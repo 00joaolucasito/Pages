@@ -1,0 +1,23 @@
+.pagina-produtos{
+
+
+    .main{
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        padding: 23px;
+
+        .lado{
+          width: auto;
+          text-align:left;
+          color: #000000;
+        }
+      
+        .meio{
+          width: auto;
+          text-align: center;
+        }
+      }
+      
+      
+}
